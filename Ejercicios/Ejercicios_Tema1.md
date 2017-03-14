@@ -1,4 +1,5 @@
-#Ejercicios del Tema1
+## Ejercicios del Tema1
+
 1. apache: ofrece servicios a páginas web, ya sean estáticas o dinámicas. Es el servidor web mas utilizado por ser seguro y confiable, también tiene una gran cantidad de funcionalidades a disposición de sus usuarios.
 
 2. nginx: es un servidor wev HTTP de código abierto que incluye servicios de correo electronico con acceso a IMAP y al servidor POP, tambien puede usarse como un proxy inverso. Suele usarse para equilibrar la carga entre los servidores back-end y para proporcionar almacenamiento en caché para servidores back-end lentos.
