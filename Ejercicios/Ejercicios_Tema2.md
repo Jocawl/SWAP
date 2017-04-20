@@ -54,11 +54,13 @@ Para terminar el ejercicio, calculamos con la fórmula anterior, la disponibilid
 
 ![imagen2](https://github.com/Jocawl/SWAP/blob/master/Ejercicios/jquery.png?raw=true)
 
-**Jquery** .... .
+**jQuery** es una biblioteca multiplataforma de JavaScript que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos, desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.
 
-![imagen3](https://github.com/Jocawl/SWAP/blob/master/Ejercicios/pm2.png?raw=true)
+jQuery, al igual que otras bibliotecas, ofrece una serie de funcionalidades basadas en JavaScript que de otra manera requerirían de mucho más código, es decir, con las funciones propias de esta biblioteca se logran grandes resultados en menos tiempo y espacio.
 
-**PM2**
+![imagen3](https://github.com/Jocawl/SWAP/blob/master/Ejercicios/angular.png?raw=true)
+
+**AngularJS** nn framework Javascript para el desarrollo de aplicaciones web en el lado del cliente, lanzado por Google. Se utiliza para crear y mantener aplicaciones web de una sola página. su objetivo es aumentar las aplicaciones basadas en navegador con capacidad MVC, en un esfuerzo para hcer el desarrollo más sencillo.
 ## Ejercicio T2.3:
 ### ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor?
 
