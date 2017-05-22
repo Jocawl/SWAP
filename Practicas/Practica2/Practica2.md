@@ -13,7 +13,7 @@ Ahora comprobamos en la máquina 1 que se ha copiado la información.
 
 ## 2. Instalando la herramienta rsync
 Instalamos en ambas máquinas, si no la tenemos, la herramienta rsync. Podemos hacerlo con el siguiente comando:
-~~~~
+~~~
 sudo apt-get install rsync
 ~~~
 
@@ -32,7 +32,8 @@ Y comprobamos que hemos copiado la información de la máquina 1.
 En la máquina que queremos usar como respaldo de la principal ejecutamos el siguiente comando:
 ~~~
 ssh-keygen -b 4096 -t rsa
-~~~~ 
+~~~
+
 ![imagen](https://github.com/Jocawl/SWAP/blob/master/Practicas/Practica2/ssh-keygen.PNG?raw=true)
 
 
