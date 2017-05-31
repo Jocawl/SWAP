@@ -39,3 +39,11 @@ iptables -P FORWARD DROP
 ~~~
 El script para establecer la configuración quedaría:
 ![imagen](https://github.com/Jocawl/SWAP/blob/master/Practicas/Practica4/conf_iptables.PNG?raw=true)
+
+Ahora, ejecutamos el script y comprobamos el estado del cortafuegos:
+![imagen](https://github.com/Jocawl/SWAP/blob/master/Practicas/Practica4/estadoCortafuegos.PNG?raw=true)
+
+Después, comprobamos que sigue sirviendo HTTP y HTTPS:
+![imagen](https://github.com/Jocawl/SWAP/blob/master/Practicas/Practica4/estadoCortafuegos.PNG?raw=true)
+Añadimos al archivo */etc/rc.local* el script con las reglas del cortafuegos, así se ejecutará al iniciar el sistema.
+![imagen](https://github.com/Jocawl/SWAP/blob/master/Practicas/Practica4/ejecutar_script_inicio.PNG?raw=true)
