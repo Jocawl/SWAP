@@ -1,0 +1,1 @@
+# Instalación laboratorio virtual
